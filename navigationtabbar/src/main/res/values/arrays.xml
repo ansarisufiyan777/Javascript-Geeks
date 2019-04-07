@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_preview">
+        <item>#df5a55</item>
+        <item>#f9bb72</item>
+        <item>#dd6495</item>
+        <item>#76afcf</item>
+        <item>#4fc08d</item>
+        <item>#72d3b4</item>
+    </string-array>
+
+
+    <string-array name="tab_names">
+        <item>Favourite</item>
+        <item>Javascript</item>
+        <item>Angular</item>
+        <item>React</item>
+        <item>Vue</item>
+        <item>CSS</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item></item>
+        <item>https://imgur.com/cj9NQdl.png</item>
+        <item>https://imgur.com/iHkCZym.png</item>
+        <item>https://imgur.com/IJkvGdA.png</item>
+        <item>https://imgur.com/dMNrKhO.png</item>
+        <item>https://imgur.com/9ECaxtg.png</item>
+    </string-array>
+</resources>

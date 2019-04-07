@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "462854510764",
+    "firebase_url": "https://javascriptgeeks-1d6b9.firebaseio.com",
+    "project_id": "javascriptgeeks-1d6b9",
+    "storage_bucket": "javascriptgeeks-1d6b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462854510764:android:c3d9fa5fb26ad828",
+        "android_client_info": {
+          "package_name": "info.infiniteloops.jgeeks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462854510764-v770k5otj4riukpqtr7r8v7h6el0a248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcL1_6-KYndYAiwx_eABXGUJGmPBu-rpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

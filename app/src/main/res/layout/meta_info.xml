@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/meta_info_bg"
+        android:padding="7dp"
+
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/metaImageUrl"
+            fresco:roundedCornerRadius="5dp"
+            android:layout_width="100dp"
+            android:background="@drawable/meta_info_image"
+            android:layout_height="100dp"
+            fresco:placeholderImage="@drawable/angular" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/metaDataContainer"
+            android:layout_marginRight="5dp"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:id="@+id/metaTitle"
+                android:text="CSS selectors level 4 – LogRocket"
+                android:textColor="@color/text" />
+
+            <TextView
+                android:id="@+id/metaDesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="13sp"
+                android:text="In this article, I’ll give you an overview of the last generation of selectors, level 4, according to the Editor’s Draft."
+                android:textColor="@color/tintText" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Infinite Loops"
+                android:textStyle="bold"
+                android:id="@+id/metaSiteName"
+                android:textColor="@color/whitishTint"
+                android:textSize="12sp"
+                android:layout_gravity="bottom|end"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
