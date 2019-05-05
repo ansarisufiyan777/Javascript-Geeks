@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Javascript Geeks</string>
+    <string name="google_client_id">462854510764-gg8rutj7p3jk4dfn1l5od7au7h3gvd6s.apps.googleusercontent.com</string>
+    <string name="google_client_secret">s8CCyXypbtseW1czLviryrUX</string>
+
+    <string name="label_google_sign_in">Firebase + Google Sign In</string>
+    <string name="desc_google_sign_in">Use a Google Sign In credential to authenticate with Firebase.</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Google Sign In</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+
 </resources>

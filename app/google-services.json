@@ -15,25 +15,31 @@
       },
       "oauth_client": [
         {
-          "client_id": "462854510764-v770k5otj4riukpqtr7r8v7h6el0a248.apps.googleusercontent.com",
+          "client_id": "462854510764-ut11cjuk9fad91fvbg27tbb2fgkoecd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.infiniteloops.jgeeks",
+            "certificate_hash": "8950b63c42a8bb1b80accee5b1926099ebbff983"
+          }
+        },
+        {
+          "client_id": "462854510764-gg8rutj7p3jk4dfn1l5od7au7h3gvd6s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCcL1_6-KYndYAiwx_eABXGUJGmPBu-rpA"
+          "current_key": "AIzaSyBuCVQiIW445OdnWHm_0PsMDHRFXsLdnmk"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462854510764-gg8rutj7p3jk4dfn1l5od7au7h3gvd6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

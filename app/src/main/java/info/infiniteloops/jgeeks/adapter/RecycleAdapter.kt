@@ -1,12 +1,11 @@
 package info.infiniteloops.jgeeks.adapter
 
 import android.app.Activity
+import android.view.*
+import android.view.animation.Animation
+import android.view.animation.AnimationUtils
 
 import androidx.recyclerview.widget.RecyclerView
-
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
 
 import org.jsoup.helper.StringUtil
 
@@ -16,6 +15,8 @@ import info.infiniteloops.jgeeks.R
 import info.infiniteloops.jgeeks.Utils.Utils
 import info.infiniteloops.jgeeks.models.MetaData
 import info.infiniteloops.jgeeks.models.Post
+import info.infiniteloops.jgeeks.network.GoogleLogin
+import info.infiniteloops.jgeeks.network.SessionManager
 import kotlinx.android.synthetic.main.item_list.view.*
 import kotlinx.android.synthetic.main.meta_info.view.*
 
@@ -30,6 +31,7 @@ class RecycleAdapter(private val baseContext: Activity, private val arrayList: A
         val post = arrayList[position]
         val linkMetaData = arrayList[position].metaData
         holder.bind(post, linkMetaData)
+
     }
 
     override fun getItemCount(): Int {
@@ -63,7 +65,52 @@ class RecycleAdapter(private val baseContext: Activity, private val arrayList: A
             } else {
                 itemView.imageUrl!!.setImageURI(Utils.getUriFromStr(post.imageurl!!))
             }
+            Utils.setLikeImage(itemView.heart_anim,baseContext, post.category!!)
+            val gd = GestureDetector(baseContext, object : GestureDetector.SimpleOnGestureListener() {
+                override fun onDown(e: MotionEvent): Boolean {
+                    return true
+                }
+
+                override fun onDoubleTap(e: MotionEvent): Boolean {
+                    var login = GoogleLogin(baseContext)
+                    if(SessionManager(baseContext).isLoggedIn){
+                        val pulse_fade = AnimationUtils.loadAnimation(baseContext, R.anim.pulse_fade_in)
+                        pulse_fade.setAnimationListener(object : Animation.AnimationListener {
+                            override fun onAnimationStart(animation: Animation) {
+                                itemView.heart_anim.visibility = View.VISIBLE
+                            }
+
+                            override fun onAnimationEnd(animation: Animation) {
+                                itemView.heart_anim.visibility = View.GONE
+                            }
+
+                            override fun onAnimationRepeat(animation: Animation) {
+
+                            }
+                        })
+                        itemView.heart_anim.startAnimation(pulse_fade)
+                        login.addToLikesIfNot(post);
+                    }else{
+                        login.alertForLogin()
+                    }
+                    return true
+                }
+
+                override fun onDoubleTapEvent(e: MotionEvent): Boolean {
+                    return true
+                }
+            })
+            itemView.setOnTouchListener(object : View.OnTouchListener {
+                override fun onTouch(v: View, event: MotionEvent): Boolean {
+                    return gd.onTouchEvent(event)
+                }
+            })
         }
+
     }
+
+
+
+
 
 }

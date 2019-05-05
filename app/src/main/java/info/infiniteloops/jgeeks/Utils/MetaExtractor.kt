@@ -1,19 +1,17 @@
 package info.infiniteloops.jgeeks.Utils
 
 import android.app.Activity
+import android.app.Dialog
 import android.os.AsyncTask
 
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
-import org.jsoup.nodes.Element
-import org.jsoup.select.Elements
 
 import java.io.IOException
-import java.util.ArrayList
 
 import info.infiniteloops.jgeeks.models.MetaData
 import info.infiniteloops.jgeeks.models.Post
-import info.infiniteloops.jgeeks.network.FirebaseUtils
+import info.infiniteloops.jgeeks.network.FirestoreUtils
 
 /**
  * Created by Asna on 3/17/2019.
@@ -66,7 +64,7 @@ class MetaExtractor {
             //if you had a ui element, you could display the title
             if (result != null) {
                 post.metaData = result
-                FirebaseUtils().setPostData(post, activity)
+                FirestoreUtils().setPostData(post, activity)
             }
         }
     }

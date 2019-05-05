@@ -10,9 +10,7 @@ import java.util.HashMap
 import info.infiniteloops.jgeeks.MainActivity
 
 
-class SessionManager// Constructor
-(// Context
-        internal var _context: Context) {
+class SessionManager(internal var _context: Context) {
     // Shared Preferences
     internal var pref: SharedPreferences
 
@@ -32,35 +30,53 @@ class SessionManager// Constructor
     val userDetails: HashMap<String, String>
         get() {
             val user = HashMap<String, String>()
-            user[KEY_NAME] = pref.getString(KEY_NAME, null)
             user[KEY_EMAIL] = pref.getString(KEY_EMAIL, null)
+            user[KEY_DOCUMENT_ID] = pref.getString(KEY_DOCUMENT_ID, null)
+            user[KEY_NAME] = pref.getString(KEY_NAME, null)
             return user
         }
+
 
     /**
      * Quick check for login
      */
-    // Get Login State
+    // Get GoogleLogin State
     val isLoggedIn: Boolean
         get() = pref.getBoolean(IS_LOGIN, false)
+    val email: String
+        get() {
+            return pref.getString(KEY_EMAIL, null)
 
+        }
+    val uid: String
+        get() {
+            return pref.getString(KEY_DOCUMENT_ID, null)
+
+        }
+    val name: String
+        get() {
+            return pref.getString(KEY_NAME, null)
+
+        }
     init {
         pref = _context.getSharedPreferences(PREF_NAME, PRIVATE_MODE)
         editor = pref.edit()
     }
 
+
     /**
      * Create login session
      */
-    fun createLoginSession(name: String, email: String) {
+    fun createLoginSession(email: String, document_id: String,name:String) {
         // Storing login value as TRUE
         editor.putBoolean(IS_LOGIN, true)
 
-        // Storing name in pref
-        editor.putString(KEY_NAME, name)
-
         // Storing email in pref
         editor.putString(KEY_EMAIL, email)
+
+        // Storing document_id in pref
+        editor.putString(KEY_DOCUMENT_ID, document_id)
+        editor.putString(KEY_NAME, name)
 
         // commit changes
         editor.commit()
@@ -74,7 +90,7 @@ class SessionManager// Constructor
     fun checkLogin() {
         // Check login status
         if (!this.isLoggedIn) {
-            // user is not logged in redirect him to Login Activity
+            // user is not logged in redirect him to GoogleLogin Activity
             val i = Intent(_context, MainActivity::class.java)
             // Closing all the Activities
             i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
@@ -82,7 +98,7 @@ class SessionManager// Constructor
             // Add new Flag to start new Activity
             i.flags = Intent.FLAG_ACTIVITY_NEW_TASK
 
-            // Staring Login Activity
+            // Staring GoogleLogin Activity
             _context.startActivity(i)
         }
 
@@ -104,7 +120,7 @@ class SessionManager// Constructor
         // Add new Flag to start new Activity
         i.flags = Intent.FLAG_ACTIVITY_NEW_TASK
 
-        // Staring Login Activity
+        // Staring GoogleLogin Activity
         _context.startActivity(i)
     }
 
@@ -117,9 +133,10 @@ class SessionManager// Constructor
         private val IS_LOGIN = "IsLoggedIn"
 
         // User name (make variable public to access from outside)
-        val KEY_NAME = "name"
+        val KEY_EMAIL = "email"
 
         // Email address (make variable public to access from outside)
-        val KEY_EMAIL = "email"
+        val KEY_DOCUMENT_ID = "document_id"
+        val KEY_NAME = "name"
     }
 }

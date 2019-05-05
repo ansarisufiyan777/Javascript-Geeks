@@ -4,18 +4,14 @@ import android.app.Activity
 import android.app.Dialog
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
-import android.view.LayoutInflater
-import android.view.View
 import android.view.Window
-import android.widget.EditText
 import android.widget.Toast
 
 import org.jsoup.helper.StringUtil
 
-import androidx.appcompat.widget.AppCompatButton
 import info.infiniteloops.jgeeks.R
 import info.infiniteloops.jgeeks.models.PostEditor
-import info.infiniteloops.jgeeks.network.FirebaseUtils
+import info.infiniteloops.jgeeks.network.FirestoreUtils
 import kotlinx.android.synthetic.main.upload_loayout.view.*
 
 /**
@@ -44,10 +40,10 @@ object UploadPost {
                 postEditorModel.imageUrl = view.imageUrl!!.text.toString()
             }
             postEditorModel.postLink = view.postLink!!.text.toString()
-            val fu = FirebaseUtils()
+            val fu = FirestoreUtils()
             fu.insertPost(postEditorModel, tabNames[pos], activity)
-            Toast.makeText(activity, "Clicked", Toast.LENGTH_SHORT).show()
-
+            Toast.makeText(activity, "Publishing new post", Toast.LENGTH_SHORT).show()
+            dialog.dismiss()
         }
         dialog.show()
     }

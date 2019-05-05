@@ -1,0 +1,1573 @@
+{
+  "post" : {
+    "ANGULAR" : {
+      "1552818674133" : {
+        "caption" : "Angular Revisited: Tree-shakable Components and Optional NgModules\n\nNgModule is arguably one of the most confusing Angular concepts. Fortunately, Angular is moving towards a future in which we need Angular modules (NgModules) less often or not at all. — http://amp.gs/4xiy\n\n#angular",
+        "category" : "ANGULAR",
+        "created" : "2019.03.17.16.01.14",
+        "datemillis" : 1552818674133,
+        "dislike" : 0,
+        "id" : "1552818674133",
+        "imageurl" : "https://imgur.com/iHkCZym.png",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "NgModule is arguably one of the most confusing Angular concepts.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*J8tlNrJ9_-cFeUtGVUWsAw.jpeg",
+          "siteName" : "Angular In Depth",
+          "title" : "Angular Revisited: Tree-shakable Components and Optional NgModules",
+          "type" : "article",
+          "url" : "https://blog.angularindepth.com/angular-revisited-tree-shakable-components-and-optional-ngmodules-329a4629276d"
+        },
+        "postLink" : "http://amp.gs/4xiy",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1552819680780" : {
+        "caption" : "One More Example of Abstract Component in Vue.js\n\nThis is a brief tutorial on using abstract components with Vue.js to improve the readability of your templates and simplify your code. \n — http://amp.gs/4xzO\n\n#vue",
+        "category" : "ANGULAR",
+        "created" : "2019.03.17.16.18.00",
+        "datemillis" : 1552819680780,
+        "dislike" : 0,
+        "id" : "1552819680780",
+        "imageurl" : "https://imgur.com/iHkCZym.png",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "How often do you need to implement abstractions in your front-end code? I’ll show you one new unique example of that",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*iptMAFvpuSQ6egeHHG0qwg.png",
+          "siteName" : "Medium",
+          "title" : "One more example of abstract component in Vue.js",
+          "type" : "article",
+          "url" : "https://medium.com/js-dojo/one-more-example-of-abstract-component-in-vue-js-6e80293f7a38"
+        },
+        "postLink" : "http://amp.gs/4xzO",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      }
+    },
+    "Angular" : {
+      "1552824329535" : {
+        "caption" : "One More Example of Abstract Component in Vue.js\n\nThis is a brief tutorial on using abstract components with Vue.js to improve the readability of your templates and simplify your code. \n — http://amp.gs/4xzO\n\n#vue",
+        "category" : "Angular",
+        "created" : "2019.03.17.17.35.29",
+        "datemillis" : 1552824329535,
+        "dislike" : 0,
+        "id" : "1552824329535",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "How often do you need to implement abstractions in your front-end code? I’ll show you one new unique example of that",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*iptMAFvpuSQ6egeHHG0qwg.png",
+          "siteName" : "Medium",
+          "title" : "One more example of abstract component in Vue.js",
+          "type" : "article",
+          "url" : "https://medium.com/js-dojo/one-more-example-of-abstract-component-in-vue-js-6e80293f7a38"
+        },
+        "postLink" : "http://amp.gs/4xzO",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1552824854759" : {
+        "caption" : "How I Increased 🚀 the performance of an EXTREMELY deeply nested Angular Reactive Form by 380%😲\n\nDo you have a deeply nested data structure? Do you have to build a form around it? Is this form really slow to work with? Are your users complaining about it? Do you need an escape? WAIT! Siddharth is here to guide you home.\n — http://amp.gs/4CLM\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.03.17.17.44.14",
+        "datemillis" : 1552824854759,
+        "dislike" : 0,
+        "id" : "1552824854759",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Starting from scratch we’ll incrementally refactor a Reactive Form implementation following the Angular Style Guide & polish it to…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*CKxgGcXWq_4Whp8cH3eWbQ.png",
+          "siteName" : "Angular In Depth",
+          "title" : "How I Increased 🚀 the performance of an EXTREMELY deeply nested Angular Reactive Form by 380%😲🤯",
+          "type" : "article",
+          "url" : "https://blog.angularindepth.com/how-i-increased-the-performance-of-an-extremely-deeply-nested-angular-reactive-form-by-380-c1b18ea668db"
+        },
+        "postLink" : "http://amp.gs/4CLM",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1552825028213" : {
+        "caption" : "Handle restricted routes in Angular with Route Guards\n\nThere is almost no application out there without authentication and restricted areas, right? With this article Vassiliki will explain how to handle restricted routes in Angular with Guards and Http requests, the real life way.\n — http://amp.gs/4yEC\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.03.17.17.47.08",
+        "datemillis" : 1552825028213,
+        "dislike" : 0,
+        "id" : "1552825028213",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Authentication",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*iir3mYWp2kYbkURprNObDQ.png",
+          "siteName" : "ITNEXT",
+          "title" : "Handle restricted routes in Angular with Route Guards",
+          "type" : "article",
+          "url" : "https://itnext.io/handle-restricted-routes-in-angular-with-route-guards-95c93be9d05e"
+        },
+        "postLink" : "http://amp.gs/4yEC",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1554641743071" : {
+        "caption" : "Building a Transaction Sservice for Managing Large Sscale Eediting Experiences\n\nA common challenge developers have to tackle when building applications consuming large data sets, is how to create a maintainable and scalable user experience for editing. They may face hundreds of thousands and even millions of records on which they execute CRUD operations that need to be sent to a server and saved to a database.- http://amp.gs/RC3u\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.07.18.25.43",
+        "datemillis" : 1554641743071,
+        "dislike" : 0,
+        "id" : "1554641743071",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "A common challenge developers have to tackle when building applications consuming large data sets, is how to create a maintainable and…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*O-6DidcFW_XCSqgKRfXf_Q.png",
+          "siteName" : "Angular Blog",
+          "title" : "Building a transaction service for managing large scale editing experiences",
+          "type" : "article",
+          "url" : "https://blog.angular.io/building-a-transaction-service-for-managing-large-scale-editing-experiences-ded666eafd5e"
+        },
+        "postLink" : "http://amp.gs/RC3u",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555138814044" : {
+        "caption" : "The Pitfalls of async/await in Array Loops\n\nUsing async/await while looping through arrays seems simple, but there’s some non-intuitive behavior to look out for. - http://amp.gs/RUtJ\n\n#nodejs",
+        "category" : "Angular",
+        "created" : "2019.04.13.12.30.14",
+        "datemillis" : 1555138814044,
+        "dislike" : 0,
+        "id" : "1555138814044",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Using async/await while looping through arrays in Javascript loop seems simple, but there’s some non-intuitive behavior to look out for…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*ih1uu8Km8qJ5450kPNzfnA.png",
+          "siteName" : "Medium",
+          "title" : "The Pitfalls of Async/Await in Array Loops",
+          "type" : "article",
+          "url" : "https://medium.com/dailyjs/the-pitfalls-of-async-await-in-array-loops-cf9cf713bfeb"
+        },
+        "postLink" : "http://amp.gs/RUtJ",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555138921488" : {
+        "caption" : "Total Guide To Custom Angular Schematics\n\nSchematics are great! They enable us to achieve more in shorter amount of time! But most importantly, we can think less about mundane stuff which leaves our limited attention span to focus on solving real challenges! - http://amp.gs/ROAX\n\n#angular #schematics",
+        "category" : "Angular",
+        "created" : "2019.04.13.12.32.01",
+        "datemillis" : 1555138921488,
+        "dislike" : 0,
+        "id" : "1555138921488",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Schematics are great! They enable us to achieve more in shorter amount of time! But most importantly, we can think less about mundane…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*jAc2vOqWl1qAgfHSB_n2vg.jpeg",
+          "siteName" : "Medium",
+          "title" : "Total Guide To Custom Angular Schematics",
+          "type" : "article",
+          "url" : "https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4"
+        },
+        "postLink" : "http://amp.gs/ROAX",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555267385402" : {
+        "caption" : "How to develop, consume, and publish an Angular library to NPM\n\nAngular is a really popular and powerful JavaScript Framework on which one can build Web Apps to serve millions of daily users. It’s an open source framework by Google and anyone can collaborate. Likewise, there are thousands of packages for Angular available as plug-and-play on NPM.  - http://amp.gs/RSRN\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.15.00.13.05",
+        "datemillis" : 1555267385402,
+        "dislike" : 0,
+        "id" : "1555267385402",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Angular is a really popular and powerful JavaScript Framework on which one can built Web Apps to serve millions of daily users. It’s an…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*QBJcjunNHVVV_SDi-xSspQ.png",
+          "siteName" : "freeCodeCamp.org",
+          "title" : "How to develop, consume, and publish an Angular library to NPM",
+          "type" : "article",
+          "url" : "https://medium.freecodecamp.org/how-to-develop-consume-and-publish-an-angular-library-to-npm-2ed608a03c6c"
+        },
+        "postLink" : "http://amp.gs/RSRN",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555357511468" : {
+        "caption" : "How to Start Flying with Angular and NgRx\n\nOne of the biggest challenges with any application is managing data. In the world of Angular, there are a lot of patterns to follow to manage your application. These typically involve using decorators like Input and Output, or things like RxJs Observables to watch for data changes. However, there is a reactive state technology that solves this challenge called NgRx. - http://amp.gs/RNib\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.16.01.15.11",
+        "datemillis" : 1555357511468,
+        "dislike" : 0,
+        "id" : "1555357511468",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "One of the biggest challenges with any application is managing data. In the world of Angular, there are a lot of patterns to follow to…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*X8AWlj7oVuEC_hCrWvwfbw.jpeg",
+          "siteName" : "Angular In Depth",
+          "title" : "How to Start Flying with Angular and NgRx",
+          "type" : "article",
+          "url" : "https://blog.angularindepth.com/how-to-start-flying-with-angular-and-ngrx-b18e84d444aa"
+        },
+        "postLink" : "http://amp.gs/RNib",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555478998729" : {
+        "caption" : "Building a Food Store using Redux and Angular\n\nWhen applications get complex, it can be difficult to manage their data. In this tutorial, learn how to use the state management library Redux to build a food store that displays items and lets users add them to a shopping cart - http://amp.gs/RiXK\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.17.10.59.58",
+        "datemillis" : 1555478998729,
+        "dislike" : 0,
+        "id" : "1555478998729",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "When applications get complex, it can be difficult to manage their data. Learn how to use the state management library Redux to build a food store.",
+          "image" : "https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/angulart-dark_870x2200ccf39bea0cd4debbf2a927bb7ccaf15.png?sfvrsn=255058a2_3",
+          "siteName" : "Telerik Blogs",
+          "title" : "Building a Food Store using Redux and Angular",
+          "type" : "article",
+          "url" : "https://www.telerik.com/blogs/building-a-food-store-using-redux-and-angular?utm_campaign=building-a-food-store-using-redux-and-an"
+        },
+        "postLink" : "http://amp.gs/RiXK",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555606515530" : {
+        "caption" : "Lazy Loading External JavaScript Libraries in Angular\n\nAngular has a great ecosystem that provides us almost everything. However, we might find sometimes we still need to borrow things from plain JavaScript libraries. In these cases, we can either include external JavaScript libraries in theindex.html header/body, or include them in angular.json which will be bundled via Angular CLI. - http://amp.gs/R3n9\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.18.22.25.15",
+        "datemillis" : 1555606515530,
+        "dislike" : 0,
+        "id" : "1555606515530",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Angular has a great ecosystem that provides us almost everything. However, we might find sometimes we still need to borrow things from…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*QSAAlQ0ntVBLyvqEGTmZhg.png",
+          "siteName" : "codeburst",
+          "title" : "Lazy Loading External JavaScript Libraries in Angular",
+          "type" : "article",
+          "url" : "https://codeburst.io/lazy-loading-external-javascript-libraries-in-angular-3d86ada54ec7"
+        },
+        "postLink" : "http://amp.gs/R3n9",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106040892" : {
+        "caption" : "Understanding Angular’s ViewEncapsulation\n\nIn your Angular components you’re able to specify a component’s ViewEncapsulation. It defines template and style encapsulation options available for components, and thus specifies the strategy on how styles are applied to a component. By default, styles are appended to the document’s <head> and is encapsulation emulated, but there are other options as well. - http://amp.gs/Rw0D\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.24.17.10.40",
+        "datemillis" : 1556106040892,
+        "dislike" : 0,
+        "id" : "1556106040892",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In your Angular components you’re able to specify a component’s ViewEncapsulation. It defines template and style encapsulation options…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*Guedpz-wJ5fdffg75bNuIQ.png",
+          "siteName" : "Medium",
+          "title" : "Understanding Angular’s ViewEncapsulation",
+          "type" : "article",
+          "url" : "https://medium.com/dev-jam/understanding-angulars-viewencapsulation-5d8638859d4a"
+        },
+        "postLink" : "http://amp.gs/Rw0D",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106125751" : {
+        "caption" : "Building an extensible Dynamic Pluggable Enterprise Application with Angular\n\nIn this article, we will talk about how we can leverage Angular CLI build tools to create an AOT precompiled Angular plugin, which can share common code with other plugins and even work with Angular universal. This is an unofficial solution, but it works well for our case. - http://amp.gs/RLZx\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.24.17.12.05",
+        "datemillis" : 1556106125751,
+        "dislike" : 0,
+        "id" : "1556106125751",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In this article, we will talk about how we can leverage Angular CLI build tools to create an AOT precompiled Angular plugin.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*H7jw9TY7LfSJ5embH_OPhw.png",
+          "siteName" : "Angular In Depth",
+          "title" : "Building an extensible Dynamic Pluggable Enterprise Application with Angular",
+          "type" : "article",
+          "url" : "https://blog.angularindepth.com/building-extensible-dynamic-pluggable-enterprise-application-with-angular-aed8979faba5"
+        },
+        "postLink" : "http://amp.gs/RLZx",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556133951679" : {
+        "caption" : "Web Components Will Replace Your Frontend Framework\n\nA bold claim but Danny makes a lot of good points and shows off the basic concepts well. - http://amp.gs/RL5S\n\n#webcomponents",
+        "category" : "Angular",
+        "created" : "2019.04.25.00.55.51",
+        "datemillis" : 1556133951679,
+        "dislike" : 0,
+        "id" : "1556133951679",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "postLink" : "http://amp.gs/RL5S",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556133971390" : {
+        "caption" : "Node.js's New 'Enterprise Focus Group'\n\nThe new group will act as a way to gain feedback from “companies with a large technology footprint, defined here as 50+ projects, that are building on or using Node.js”.. so if that’s you, consider signing up. - http://amp.gs/RWKo\n\n#nodejs",
+        "category" : "Angular",
+        "created" : "2019.04.25.00.56.11",
+        "datemillis" : 1556133971390,
+        "dislike" : 0,
+        "id" : "1556133971390",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "This blog was contributed by the Node.js User Feedback team.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*Bpzk_bTwazn5Q2VShgne1Q.jpeg",
+          "siteName" : "Medium",
+          "title" : "Introducing the Node.js Enterprise Focus Group",
+          "type" : "article",
+          "url" : "https://medium.com/@nodejs/introducing-the-node-js-enterprise-focus-group-312ff9f49aaa"
+        },
+        "postLink" : "http://amp.gs/RWKo",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556134117996" : {
+        "caption" : "Advanced Angular: Implementing a Reusable Autocomplete Component\n\nIn this article, Netanel will walk us through the process of creating a custom autocomplete component with Angular by using the Angular’s CDK. Along the way we’ll go over various techniques that we can use to build robust components in Angular.\n - http://amp.gs/RMVH\n\n#angular",
+        "category" : "Angular",
+        "created" : "2019.04.25.00.58.38",
+        "datemillis" : 1556134117996,
+        "dislike" : 0,
+        "id" : "1556134117996",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Implementing a Reusable Autocomplete Component",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*DFw78jkLnKPWwi6Wl1db9A.png",
+          "siteName" : "Netanel Basal",
+          "title" : "Advanced Angular: Implementing a Reusable Autocomplete Component",
+          "type" : "article",
+          "url" : "https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5"
+        },
+        "postLink" : "http://amp.gs/RMVH",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556202243195" : {
+        "caption" : "NgRx: Action Creators Redesigned\n\nIn this article, we’ll look into the limitations of the current Action Creators and some techniques that can help with them. Then Alex will walk us through the new addition to the core NgRx — createAction function, where he’ll highlight some of its advantages, how it can be used in ofType operator, and discuss Action Union. - http://amp.gs/RbvP\n\n#angular #ngrx",
+        "category" : "Angular",
+        "created" : "2019.04.25.19.54.03",
+        "datemillis" : 1556202243195,
+        "dislike" : 0,
+        "id" : "1556202243195",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "The limitations of the current Action Creators and some techniques that can help with them.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*wNNAIhHRxZEFKG8WpvjCvQ.jpeg",
+          "siteName" : "Angular In Depth",
+          "title" : "NgRx: Action Creators redesigned",
+          "type" : "article",
+          "url" : "https://blog.angularindepth.com/ngrx-action-creators-redesigned-d396960e46da"
+        },
+        "postLink" : "http://amp.gs/RbvP",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      }
+    },
+    "CSS" : {
+      "1552824913653" : {
+        "caption" : "Intro to Font Metrics \n \nWeston Thayer explains how the raw anatomical features of type can enable us to create designs that are precise, resilient, readable, and maybe even original. — http://amp.gs/4e0V\n\n#css #font #metrixs",
+        "category" : "CSS",
+        "created" : "2019.03.17.17.45.13",
+        "datemillis" : 1552824913653,
+        "dislike" : 0,
+        "id" : "1552824913653",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Font files contain a wealth of information about a typeface. Whether you're a designer or a developer, learning more about how fonts work can open new doors in how you work and what you create.",
+          "image" : "http://westonthayer.com/writing/intro-to-font-metrics/font-metrics.png",
+          "title" : "Intro to Font Metrics",
+          "type" : "website",
+          "url" : "http://westonthayer.com/writing/intro-to-font-metrics/"
+        },
+        "postLink" : "http://amp.gs/4e0V",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1552825117407" : {
+        "caption" : "Breaking Boxes With CSS Fragmentation\n\nIf you’ve ever wanted to break your content up into chunks (think separating content on different pages using for print stylesheets) then this is your must read article for the week. — http://amp.gs/4vzz\n\n#css",
+        "category" : "CSS",
+        "created" : "2019.03.17.17.48.37",
+        "datemillis" : 1552825117407,
+        "dislike" : 0,
+        "id" : "1552825117407",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "What is fragmentation, why might you want to use it, and what is the current state of browser support? Rachel Andrew has the answers.",
+          "image" : "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c87d376a-d456-42a5-be85-4435af482201/css-fragmentation-sharing-card.png",
+          "siteName" : "Smashing Magazine",
+          "title" : "Breaking Boxes With CSS Fragmentation — Smashing Magazine",
+          "type" : "article",
+          "url" : "https://www.smashingmagazine.com/2019/02/css-fragmentation/"
+        },
+        "postLink" : "http://amp.gs/4vzz",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555357544926" : {
+        "caption" : "How To Align Things In CSS\n\nThere are a few ways to align elements in CSS. In this article, Rachel Andrew explains what they are with some tips to help you remember which to use and why. - http://amp.gs/RAyc\n\n#css",
+        "category" : "CSS",
+        "created" : "2019.04.16.01.15.44",
+        "datemillis" : 1555357544926,
+        "dislike" : 0,
+        "id" : "1555357544926",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "There are a few ways to align elements in CSS. In this article, Rachel Andrew explains what they are with some tips to help you remember which to use and why.",
+          "image" : "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c8db6a0-0bfc-4d2d-8e9d-920d345a195f/rachel-andrew-css-alignment.png",
+          "siteName" : "Smashing Magazine",
+          "title" : "How To Align Things In CSS — Smashing Magazine",
+          "type" : "article",
+          "url" : "https://www.smashingmagazine.com/2019/03/css-alignment/"
+        },
+        "postLink" : "http://amp.gs/RAyc",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555478931591" : {
+        "caption" : "What does GDPR mean for UX?\n\nHow will European GDPR laws affect how we approach the UX of digital products? - http://amp.gs/RsBH\n\n#ux",
+        "category" : "CSS",
+        "created" : "2019.04.17.10.58.51",
+        "datemillis" : 1555478931591,
+        "dislike" : 0,
+        "id" : "1555478931591",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Unless you’ve been living under a rock for the past 6 months, you won’t have failed to hear the abbreviation “GDPR” being bandied about…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*l7OtZc87jIgEmZAtn76-YA.png",
+          "siteName" : "UX Collective",
+          "title" : "What does GDPR mean for UX?",
+          "type" : "article",
+          "url" : "https://uxdesign.cc/what-does-gdpr-mean-for-ux-9b5ecbc51a43"
+        },
+        "postLink" : "http://amp.gs/RsBH",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555479015493" : {
+        "caption" : "Managing z-index in a Component-Based Web Application\n\nThe z-index property, despite all that’s written about it, is still widely misunderstood and mishandled. Stacking issues in a complex single-page web application can become a major pain. Adhering to some principles, however, we can easily avoid these issues. - http://amp.gs/RD3P\n\n#css",
+        "category" : "CSS",
+        "created" : "2019.04.17.11.00.15",
+        "datemillis" : 1555479015493,
+        "dislike" : 0,
+        "id" : "1555479015493",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "The `z-index` property, despite all that’s written about it, is still widely misunderstood and mishandled. Stacking issues in a complex single-page web application can become a major pain. Adhering to some principles, however, we can easily avoid these issues.",
+          "image" : "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b7f42b5-5d9d-4edc-8004-c9b00b3acaac/z-index-sharing-card-pavel.png",
+          "siteName" : "Smashing Magazine",
+          "title" : "Managing Z-Index In A Component-Based Web Application — Smashing Magazine",
+          "type" : "article",
+          "url" : "https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/"
+        },
+        "postLink" : "http://amp.gs/RD3P",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106091853" : {
+        "caption" : "How to Create Better Themes With CSS Variables \n \nMichelle Barker explores what makes CSS variables special and some of the ways in which they can benefit us today - http://amp.gs/RXn7\n\n#css",
+        "category" : "CSS",
+        "created" : "2019.04.24.17.11.31",
+        "datemillis" : 1556106091853,
+        "dislike" : 0,
+        "id" : "1556106091853",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In this article, we’ll explore what makes CSS variables special and some of the ways in which they can benefit us today.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*H3F0qbjUZeiEK6Yad7TQBg.png",
+          "siteName" : "LogRocket",
+          "title" : "How to create better themes with CSS variables",
+          "type" : "article",
+          "url" : "https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74"
+        },
+        "postLink" : "http://amp.gs/RXn7",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556134017342" : {
+        "caption" : "Finally, A CSS Only Solution To :hover on Touchscreens\n\nThis issue may finally be solved by the new Level 4 Media Queries. - http://amp.gs/Roqe\n\n#css",
+        "category" : "CSS",
+        "created" : "2019.04.25.00.56.57",
+        "datemillis" : 1556134017342,
+        "dislike" : 0,
+        "id" : "1556134017342",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "TL; DR: It’s @media(hover: hover) and (pointer: fine)",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*Jj_YM0KttFPgKRKIVEr4_g.jpeg",
+          "siteName" : "Noteworthy - The Journal Blog",
+          "title" : "Finally, a CSS only solution to :hover on touchscreens",
+          "type" : "article",
+          "url" : "https://blog.usejournal.com/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c"
+        },
+        "postLink" : "http://amp.gs/Roqe",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556202257446" : {
+        "caption" : "Building a Real-Time Earnings Tracker into Uber’s New Driver App\n\nHow Uber’s mobile engineering team developed a real-time component in the newest version of its driver app. - http://amp.gs/UIp7\n\n#css",
+        "category" : "CSS",
+        "created" : "2019.04.25.19.54.17",
+        "datemillis" : 1556202257446,
+        "dislike" : 0,
+        "id" : "1556202257446",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "What began as a means of showing Uber's driver-partners their real-time earnings quickly became an extensible means of communicating not just earnings, but also incentives and other useful information within our new driver app.",
+          "image" : "https://eng.uber.com/wp-content/uploads/2019/03/Carbon_Earnings_Tracker_feature_image.jpg",
+          "siteName" : "Uber Engineering Blog",
+          "title" : "Building a Real-time Earnings Tracker into Uber’s New Driver App",
+          "type" : "article",
+          "url" : "https://eng.uber.com/real-time-earnings-tracker/"
+        },
+        "postLink" : "http://amp.gs/UIp7",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      }
+    },
+    "Javascript" : {
+      "1554641696069" : {
+        "caption" : "An Intro to RxJS Concepts with Vanilla JavaScript\n\nObservables..? Observers..? Get a grip on the concepts here. - \nhttp://amp.gs/RCkJ\n\n#rxjs",
+        "category" : "Javascript",
+        "created" : "2019.04.07.18.24.56",
+        "datemillis" : 1554641696069,
+        "dislike" : 0,
+        "id" : "1554641696069",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Breaking down observables, observers, and operators using vanilla JavaScript",
+          "image" : "https://res.cloudinary.com/practicaldev/image/fetch/s--6fdDpeVr--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/732981294a56/download/Image%25202019-03-29%2520at%252012.00.46%2520PM.png",
+          "siteName" : "The Practical Dev",
+          "title" : "Intro to RxJS Concepts with Vanilla JavaScript",
+          "type" : "article",
+          "url" : "https://dev.to/creeland/intro-to-rxjs-concepts-with-vanilla-javascript-4aji"
+        },
+        "postLink" : "http://amp.gs/RCkJ",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1554641829566" : {
+        "caption" : "Bringing Realtime to Serverless Web Applications\n\nAWS IoT and MQTT can be used to push real-time messages around an application, even if the “Internet of Things” is nowhere to be seen. - http://amp.gs/RkLn\n\n#aws #IoT",
+        "category" : "Javascript",
+        "created" : "2019.04.07.18.27.09",
+        "datemillis" : 1554641829566,
+        "dislike" : 0,
+        "id" : "1554641829566",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "AWS IoT makes light work of pushing real-time messages throughout your application.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*O_efEZ6JBn_GYvVgpJ350Q.png",
+          "siteName" : "ITNEXT",
+          "title" : "Bringing realtime to serverless web applications",
+          "type" : "article",
+          "url" : "https://itnext.io/using-iot-to-send-messages-back-to-your-serverless-front-end-fb335a099576"
+        },
+        "postLink" : "http://amp.gs/RkLn",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555157232592" : {
+        "caption" : "5 Tools For Automated Accessibility Audits \n \nBen Robertson introduces a few tools that you might find helpful in identifying accessibility issues. - http://amp.gs/Rrzz\n\n#accessibility #tools",
+        "category" : "Javascript",
+        "created" : "2019.04.13.17.37.12",
+        "datemillis" : 1555157232592,
+        "dislike" : 0,
+        "id" : "1555157232592",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Some of the quickest accessibility wins can be simple fixes, but if you don't know what to look for, they can be hard to spot.",
+          "title" : "5 Tools For Automated Accessibility Audits",
+          "url" : "https://benrobertson.io/accessibility/tools-for-website-audits"
+        },
+        "postLink" : "http://amp.gs/Rrzz",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555169216516" : {
+        "caption" : "A Complete Node Project Setup from Docker to Testing - http://amp.gs/RrOz\n\n#nodejs #docker",
+        "category" : "Javascript",
+        "created" : "2019.04.13.20.56.56",
+        "datemillis" : 1555169216516,
+        "dislike" : 0,
+        "id" : "1555169216516",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In this tutorial, I’ll show you how to set up a simple project with Node.js + Express.js + MongoDB + JEST Integration Testing and how to…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*Mf2KttzE3v4uKjA71f9CZw.jpeg",
+          "siteName" : "Medium",
+          "title" : "Complete Node js Project Setup from Docker to Testing-[Docker |RESTfull APIs with Node.js",
+          "type" : "article",
+          "url" : "https://medium.com/@nur_islam/complete-node-js-project-setup-from-docker-to-testing-docker-restfull-apis-with-node-js-9f384e06734a"
+        },
+        "postLink" : "http://amp.gs/RrOz",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555249970707" : {
+        "caption" : "Watch \"Philip Roberts: What the heck is the event loop anyway? | JSConf EU\" on YouTube\nhttps://youtu.be/8aGhZQkoFbQ",
+        "category" : "Javascript",
+        "created" : "2019.04.14.19.22.50",
+        "datemillis" : 1555249970707,
+        "dislike" : 0,
+        "id" : "1555249970707",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "JavaScript programmers like to use words like, “event-loop”, “non-blocking”, “callback”, “asynchronous”, “single-threaded” and “concurrency”. We say things l...",
+          "image" : "https://i.ytimg.com/vi/8aGhZQkoFbQ/maxresdefault.jpg",
+          "siteName" : "YouTube",
+          "title" : "What the heck is the event loop anyway? | Philip Roberts | JSConf EU",
+          "type" : "video.other",
+          "url" : "https://www.youtube.com/watch?v=8aGhZQkoFbQ"
+        },
+        "postLink" : "https://youtu.be/8aGhZQkoFbQ",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555357587872" : {
+        "caption" : "Easy Authentication in GraphQL with Express and Apollo - http://amp.gs/RqfW\n\n#nodejs #graphql",
+        "category" : "Javascript",
+        "created" : "2019.04.16.01.16.27",
+        "datemillis" : 1555357587872,
+        "dislike" : 0,
+        "id" : "1555357587872",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "postLink" : "http://amp.gs/RqfW",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555606457055" : {
+        "caption" : "Getting Creative with the console API\n\nIf console.log is as far as your knowledge of the console object goes, this could be very handy. There are so many useful functions in there that’ll help you out while debugging. - http://amp.gs/R09Y\n\n#javascript",
+        "category" : "Javascript",
+        "created" : "2019.04.18.22.24.17",
+        "datemillis" : 1555606457055,
+        "dislike" : 0,
+        "id" : "1555606457055",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Make your console.logs fancier and more stylish with unknown, yet standardized methods! #javascript #webdevelopment #webdev #programming #debugging #console #bugs #style",
+          "image" : "https://images.unsplash.com/photo-1554107975-9ced0fc6d20d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ",
+          "siteName" : "Areknawo",
+          "title" : "Getting creative with the Console API!",
+          "type" : "article",
+          "url" : "https://areknawo.com/getting-creative-with-the-console-api/"
+        },
+        "postLink" : "http://amp.gs/R09Y",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555606480350" : {
+        "caption" : "Stop Using So Many DIVs: An Intro to Semantic HTML\n\nConsidering the HTML5 spec reads that “authors are strongly encouraged to view the div element as an element of last resort, for when no other element is suitable”, this article is a handy reminder of the semantic alternatives. - http://amp.gs/RKGF\n\n#html",
+        "category" : "Javascript",
+        "created" : "2019.04.18.22.24.40",
+        "datemillis" : 1555606480350,
+        "dislike" : 0,
+        "id" : "1555606480350",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Sure, divs are great and all, but they give no information about their purpose within the document structure. HTML5 has been around for a while now, and there are better options.",
+          "image" : "https://res.cloudinary.com/practicaldev/image/fetch/s--AtopXsp1--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/0d2br5nop9vuios7bkgv.png",
+          "siteName" : "The Practical Dev",
+          "title" : "Stop using so many divs! An intro to semantic HTML",
+          "type" : "article",
+          "url" : "https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i"
+        },
+        "postLink" : "http://amp.gs/RKGF",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556105989570" : {
+        "caption" : "How to Use Domain-Oriented Observability\n\nWhen Martin Fowler puts his editorial backing behind an article, I pay attention! Here’s a thorough walk through of an approach to adding business-relevant observability to JavaScript code in a clean, testable way. - http://amp.gs/RHZs\n\n#nodejs",
+        "category" : "Javascript",
+        "created" : "2019.04.24.17.09.49",
+        "datemillis" : 1556105989570,
+        "dislike" : 0,
+        "id" : "1556105989570",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Add observability to your code without adding cruft to your domain logic or compromising on testability.",
+          "image" : "https://martinfowler.com/articles/domain-oriented-observability/twitter-card.png",
+          "siteName" : "martinfowler.com",
+          "title" : "Domain-Oriented Observability",
+          "type" : "article",
+          "url" : "https://martinfowler.com/articles/domain-oriented-observability.html"
+        },
+        "postLink" : "http://amp.gs/RHZs",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106005436" : {
+        "caption" : "You Don't Need jQuery: Doing Things the Vanilla JS Way\n\nThere have been a few projects of this sort over the years (such as You Might Not Need jQuery) but seeing how to perform common DOM related operations with vanilla JavaScript always gets a thumbs up from me. Note: jQuery is still a great library and has many valid use cases. Don’t migrate away if you don’t want to! - http://amp.gs/RH66\n\n#javascript",
+        "category" : "Javascript",
+        "created" : "2019.04.24.17.10.05",
+        "datemillis" : 1556106005436,
+        "dislike" : 0,
+        "id" : "1556106005436",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. - nefe/You-Dont-Need-jQuery",
+          "image" : "https://avatars0.githubusercontent.com/u/33238961?s=400&v=4",
+          "siteName" : "GitHub",
+          "title" : "nefe/You-Dont-Need-jQuery",
+          "type" : "object",
+          "url" : "https://github.com/nefe/You-Dont-Need-jQuery"
+        },
+        "postLink" : "http://amp.gs/RH66",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106024408" : {
+        "caption" : "Enforcing Accessibility Best Practices with Automatically-Generated IDs\n\nA technique that renders it impossible for users of a design system to omit an important attribute and accidentally create an inaccessible experience. - http://amp.gs/R25V\n\n#accessibility",
+        "category" : "Javascript",
+        "created" : "2019.04.24.17.10.24",
+        "datemillis" : 1556106024408,
+        "dislike" : 0,
+        "id" : "1556106024408",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "One of the best things about design systems is you can create components that have design, development, accessibility, responsive, performance, etc best practices baked right into them. By taking care of the boring stuff, users of the design system don't have to think about (or at least think as har",
+          "image" : "http://bradfrost.com/wp-content/uploads/2019/03/number-input.gif",
+          "siteName" : "Brad Frost",
+          "title" : "Enforcing Accessibility Best Practices with Automatically-Generated IDs",
+          "type" : "article",
+          "url" : "http://bradfrost.com/blog/post/enforcing-accessibility-best-practices-with-automatically-generated-ids/"
+        },
+        "postLink" : "http://amp.gs/R25V",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106056251" : {
+        "caption" : "Browser Rendering Optimizations for Frontend Development\n\nExplores the conditions that can enable (and prevent) a web app to run (optimally) at 60 frames per second. - http://amp.gs/RFlB\n\n#optimization",
+        "category" : "Javascript",
+        "created" : "2019.04.24.17.10.56",
+        "datemillis" : 1556106056251,
+        "dislike" : 0,
+        "id" : "1556106056251",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In this article, we explore the conditions that can enable (and prevent) a web application to run (optimally) at 60 frames per second. We also look at several optimizations that can be plugged into the broser's rendering pipeline.",
+          "image" : "https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/v1547741390/matw3jrqjfvx2kbdjc5q.png",
+          "siteName" : "Scotch",
+          "title" : "Browser Rendering Optimizations for Frontend Development",
+          "type" : "article",
+          "url" : "http://scotch.io/tutorials/browser-rendering-optimizations-for-frontend-development"
+        },
+        "postLink" : "http://amp.gs/RFlB",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106069620" : {
+        "caption" : "Announcing TypeScript 3.4\n\nThe optionally static typed JavaScript superset takes another step forward introducing faster incremental builds, type inference improvements, and const assertions. - http://amp.gs/RFqo\n\n#typescript",
+        "category" : "Javascript",
+        "created" : "2019.04.24.17.11.09",
+        "datemillis" : 1556106069620,
+        "dislike" : 0,
+        "id" : "1556106069620",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Today we’re happy to announce the availability of TypeScript 3.4!\nIf you haven’t yet used TypeScript, it’s a language that builds on JavaScript that adds optional static types. The TypeScript project provides a compiler that checks your programs based on these types to prevent certain classes of errors,",
+          "image" : "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png",
+          "siteName" : "TypeScript",
+          "title" : "Announcing TypeScript 3.4 | TypeScript",
+          "type" : "article",
+          "url" : "https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/"
+        },
+        "postLink" : "http://amp.gs/RFqo",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556134141930" : {
+        "caption" : "Native Image Lazy-Loading for The Web: How loading Works\n\nA look at the new loading attribute which brings native <img> and <iframe> lazy-loading to the web. Support for this is expected in Chrome 75. - http://amp.gs/R599\n\n#html #images",
+        "category" : "Javascript",
+        "created" : "2019.04.25.00.59.01",
+        "datemillis" : 1556134141930,
+        "dislike" : 0,
+        "id" : "1556134141930",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In this post, we'll look at the new loading attribute which brings native <img> and <iframe> lazy-loading to the web!. For the curious, here&...",
+          "image" : "https://addyosmani.com/assets/images/loading-attribute.png",
+          "title" : "Native image lazy-loading for the web!"
+        },
+        "postLink" : "http://amp.gs/R599",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556134198647" : {
+        "caption" : "Launching the Front-End Tooling Survey 2019\n\nEach year we link to this popular front-end developer survey as the results are pretty interesting. Take part to help us all find out how our collective front-end tooling habits are changing. There’s a recap of last year’s results here too. - http://amp.gs/R6hU\n\n#frontend  #survey",
+        "category" : "Javascript",
+        "created" : "2019.04.25.00.59.58",
+        "datemillis" : 1556134198647,
+        "dislike" : 0,
+        "id" : "1556134198647",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Take part to help us find out how our front-end tooling habits are changing.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*9JIIVk5ErlXzjy1Qu1G0eQ.png",
+          "siteName" : "freeCodeCamp.org",
+          "title" : "Launching the Front-End Tooling Survey 2019",
+          "type" : "article",
+          "url" : "https://medium.freecodecamp.org/launching-the-front-end-tooling-survey-2019-4cb2b72f0b42"
+        },
+        "postLink" : "http://amp.gs/R6hU",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556261360331" : {
+        "caption" : "Creating a Google Cloud Function with Node and Express\n\nThe very basics (think “Hello world”) of creating a simple Google Cloud Function (essentially Google’s answer to AWS Lambda) using both Node and Express. - http://amp.gs/UjZD\n\n#nodejs #google #cloud",
+        "category" : "Javascript",
+        "created" : "2019.04.26.12.19.20",
+        "datemillis" : 1556261360331,
+        "dislike" : 0,
+        "id" : "1556261360331",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "The core of Google Cloud’s serverless offering is Google Cloud Functions. Learn how to build Cloud Functions quickly with Node and Express.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*3mxLaycGKDPnZv3nXSLKsA.png",
+          "siteName" : "ITNEXT",
+          "title" : "Google Cloud Functions, Node.js and Express",
+          "type" : "article",
+          "url" : "https://itnext.io/google-cloud-functions-node-js-and-express-aea4a2a9ba3a"
+        },
+        "postLink" : "http://amp.gs/UjZD",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      }
+    },
+    "React" : {
+      "1552824394145" : {
+        "caption" : "Hooks Are Good, But Have You Tried Faster React Components?\n\n5 simple tips to improve the performance of a React app. — http://amp.gs/4fRU\n\n#react",
+        "category" : "React",
+        "created" : "2019.03.17.17.36.34",
+        "datemillis" : 1552824394145,
+        "dislike" : 0,
+        "id" : "1552824394145",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "5 simple tips to improve the performance of a React application",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*u0nRX2dZ_wnOc599p4czug.jpeg",
+          "siteName" : "freeCodeCamp.org",
+          "title" : "Yeah hooks are good, but have you tried faster React Components?",
+          "type" : "article",
+          "url" : "https://medium.freecodecamp.org/yeah-hooks-are-good-but-have-you-tried-faster-react-components-e698a8db468c"
+        },
+        "postLink" : "http://amp.gs/4fRU",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1552824951633" : {
+        "caption" : "Progressive React: Building Faster React Apps\n\nA guide (which starts off with a handy checklist) on building faster React apps by way of a handful of useful optimizations. — http://amp.gs/4797\n\n#react",
+        "category" : "React",
+        "created" : "2019.03.17.17.45.51",
+        "datemillis" : 1552824951633,
+        "dislike" : 0,
+        "id" : "1552824951633",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Building progressive and performant sites with React",
+          "image" : "https://houssein.me/assets/progressive-react/banner.png",
+          "title" : "Progressive React",
+          "type" : "article",
+          "url" : "https://houssein.me/progressive-react"
+        },
+        "postLink" : "http://amp.gs/4797",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1554641788003" : {
+        "caption" : "How to Understand a Component’s Lifecycle Methods - http://amp.gs/Rkn8\n\n#react",
+        "category" : "React",
+        "created" : "2019.04.07.18.26.28",
+        "datemillis" : 1554641788003,
+        "dislike" : 0,
+        "id" : "1554641788003",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In this part, we are going to explore about lifecycle methods of ReactJS. But, before moving ahead to react’s different lifecycle methods…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*_drMYY_IEgboMS4RhvC-lQ.png",
+          "siteName" : "freeCodeCamp.org",
+          "title" : "How to understand a component’s lifecycle methods in ReactJS",
+          "type" : "article",
+          "url" : "https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630"
+        },
+        "postLink" : "http://amp.gs/Rkn8",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1554641853188" : {
+        "caption" : "How to Choose the Right React Native Navigation Library\n\nA look at some possible solutions to make the best navigation experience for users. - http://amp.gs/ReG1\n\n#reactNative",
+        "category" : "React",
+        "created" : "2019.04.07.18.27.33",
+        "datemillis" : 1554641853188,
+        "dislike" : 0,
+        "id" : "1554641853188",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "In this article, we will take a look at the possible solutions to make the best navigation experience for users and developers too. We will",
+          "image" : "https://cdn-images-1.medium.com/max/1200/0*qC8nG1sI8ZP-Dwgr",
+          "siteName" : "Hacker Noon",
+          "title" : "How to Choose the Right React Native Navigation Library",
+          "type" : "article",
+          "url" : "https://hackernoon.com/how-to-choose-the-right-react-native-navigation-library-48679d63c9e9"
+        },
+        "postLink" : "http://amp.gs/ReG1",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1554641968414" : {
+        "caption" : "Implementing An Infinite Scroll List in React Native — http://amp.gs/93xh\n\n#reactNative",
+        "category" : "React",
+        "created" : "2019.04.07.18.29.28",
+        "datemillis" : 1554641968414,
+        "dislike" : 0,
+        "id" : "1554641968414",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "While implementing pagination in mobile devices, one has to take a different approach since space is minimal unlike the web, due to this factor, infinite scrolling has always been the go to solution, giving your users a smooth and desirable experience. In this tutorial, we will be building",
+          "image" : "https://scotch-res.cloudinary.com/image/upload/w_auto,q_auto:good,f_auto/v1549030633/vuxwtbv99j7zx8i6iemh.png",
+          "siteName" : "Scotch",
+          "title" : "Implementing an Infinite Scroll list in React Native",
+          "type" : "article",
+          "url" : "http://scotch.io/tutorials/implementing-an-infinite-scroll-list-in-react-native"
+        },
+        "postLink" : "http://amp.gs/93xh",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555138848574" : {
+        "caption" : "Build React-Static Sites using Hasura-Powered GraphQL on Postgres\n\nReact-Static is a static site generator for React. - http://amp.gs/RUWz\n\n#react",
+        "category" : "React",
+        "created" : "2019.04.13.12.30.48",
+        "datemillis" : 1555138848574,
+        "dislike" : 0,
+        "id" : "1555138848574",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Source data from your existing postgres database for your react-static site using GraphQL APIs. Instant setup. Tutorial/boilerplate.",
+          "image" : "https://blog.hasura.io/content/images/2019/02/reactstatic-1.png",
+          "siteName" : "Hasura Blog",
+          "title" : "Build react-static sites using GraphQL on Postgres",
+          "type" : "article",
+          "url" : "https://blog.hasura.io/build-react-static-sites-using-hasura-graphql-on-postgres/"
+        },
+        "postLink" : "http://amp.gs/RUWz",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555267436943" : {
+        "caption" : "React Native CarPlay: Build CarPlay Apps using React Native?\n\nThis looks like it’s at an early stage but it’s an interesting idea if you have a car that supports Apple CarPlay. - http://amp.gs/RSQj\n\n#reactNative",
+        "category" : "React",
+        "created" : "2019.04.15.00.13.56",
+        "datemillis" : 1555267436943,
+        "dislike" : 0,
+        "id" : "1555267436943",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "CarPlay with React Native. Contribute to birkir/react-native-carplay development by creating an account on GitHub.",
+          "image" : "https://avatars0.githubusercontent.com/u/180773?s=400&v=4",
+          "siteName" : "GitHub",
+          "title" : "birkir/react-native-carplay",
+          "type" : "object",
+          "url" : "https://github.com/birkir/react-native-carplay"
+        },
+        "postLink" : "http://amp.gs/RSQj",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555478978098" : {
+        "caption" : "The State Reducer Pattern with React Hooks\n\nA pattern for you to use in custom hooks to enhance their power and flexibility. - http://amp.gs/RsQp\n\n#react #hooks",
+        "category" : "React",
+        "created" : "2019.04.17.10.59.38",
+        "datemillis" : 1555478978098,
+        "dislike" : 0,
+        "id" : "1555478978098",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "A pattern for you to use in custom hooks to enhance the power and flexibility of your hooks.\n",
+          "image" : "https://kentcdodds.com/static/df9bd98edff461e1eead3e2dc72ac7cd/8a6cb/banner.jpg",
+          "title" : "The State Reducer Pattern with React Hooks",
+          "type" : "article",
+          "url" : "https://kentcdodds.com//blog/the-state-reducer-pattern-with-react-hooks"
+        },
+        "postLink" : "http://amp.gs/RsQp",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555515782112" : {
+        "caption" : "How to Avoid the 'Boolean Trap' When Designing Components - http://amp.gs/RJVr\n\n#react",
+        "category" : "React",
+        "created" : "2019.04.17.21.13.02",
+        "datemillis" : 1555515782112,
+        "dislike" : 0,
+        "id" : "1555515782112",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "We help you build and get your products to the target market. We are a group seasoned professionals in product management,  UX, design and scalable software architectures. We nourish software craftsmanship!\n",
+          "image" : "https://spicefactory.co/assets/blog/cover-images/boolean_trap-bc916c809430e1e2902c531ea4d99c3bc9329fd722ef2bc10bba60e90272444c.png",
+          "title" : "How to Avoid the “Boolean Trap” When Designing React Components",
+          "type" : "article",
+          "url" : "https://spicefactory.co/blog/2019/03/26/how-to-avoid-the-boolean-trap-when-designing-react-components/"
+        },
+        "postLink" : "http://amp.gs/RJVr",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556134157156" : {
+        "caption" : "React Native Deep Linking for iOS and Android\n\n“Deep linking” is the idea of having special URLs that link directly into your app rather than to another Web page, say. - http://amp.gs/RQrE\n\n#reactNative",
+        "category" : "React",
+        "created" : "2019.04.25.00.59.17",
+        "datemillis" : 1556134157156,
+        "dislike" : 0,
+        "id" : "1556134157156",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "We live in a new era where everything is connected and we share links more often than before. We also want our customer to reach the…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*Hz2OcSy4mFPBXbtXE9MMpg.gif",
+          "siteName" : "Medium",
+          "title" : "React Native Deep Linking for iOS and Android",
+          "type" : "article",
+          "url" : "https://medium.com/@abhisheknalwaya/react-native-deep-linking-for-ios-and-android-d33abfba7ef3"
+        },
+        "postLink" : "http://amp.gs/RQrE",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556261385992" : {
+        "caption" : "Testing Stateful Function Components with react-testing-library\n\nA comparison of a function-based component with a class-based approach and the different ways to test both. - http://amp.gs/U8Z0\n\n#react #testing",
+        "category" : "React",
+        "created" : "2019.04.26.12.19.45",
+        "datemillis" : 1556261385992,
+        "dislike" : 0,
+        "id" : "1556261385992",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Test stateful React function components build with hooks using react-testing-library to follow best testing practices.",
+          "image" : "https://www.robertcooper.me/static/banner-cfbfbcc608b7e626e7937c9c44682f0d.png",
+          "title" : "Testing Stateful React Function Components with React Testing Library"
+        },
+        "postLink" : "http://amp.gs/U8Z0",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      }
+    },
+    "Vue" : {
+      "1552824982571" : {
+        "caption" : "NUXT + APOLLO + GRAPHQL + DJANGO \n\nImportance of reducing requests using GRAPHQL technologies. \n-  http://amp.gs/4P9r\n\n#nuxt #apollo #graphql #django",
+        "category" : "Vue",
+        "created" : "2019.03.17.17.46.22",
+        "datemillis" : 1552824982571,
+        "dislike" : 0,
+        "id" : "1552824982571",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Importance of reducing requests using GRAPHQL technologies",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*xAOOtWgf52mmFQyfZcMgWA.jpeg",
+          "siteName" : "Medium",
+          "title" : "NUXT + APOLLO + GRAPHQL + DJANGO",
+          "type" : "article",
+          "url" : "https://medium.com/davao-js/nuxt-apollo-graphql-django-c56d6911f4c4"
+        },
+        "postLink" : "http://amp.gs/4P9r",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1552825071145" : {
+        "caption" : "New Vue.js RFC: Class API\n\nVue 3 will introduce built-in support for authoring components as native ES2015 classes. An RFC regarding the API has been launched for community consideration. — http://amp.gs/4hmg\n\n#vue",
+        "category" : "Vue",
+        "created" : "2019.03.17.17.47.51",
+        "datemillis" : 1552825071145,
+        "dislike" : 0,
+        "id" : "1552825071145",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "RFCs for substantial changes / feature additions to Vue core - vuejs/rfcs",
+          "image" : "https://avatars1.githubusercontent.com/u/6128107?s=400&v=4",
+          "siteName" : "GitHub",
+          "title" : "vuejs/rfcs",
+          "type" : "object",
+          "url" : "https://github.com/vuejs/rfcs"
+        },
+        "postLink" : "http://amp.gs/4hmg",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555138879941" : {
+        "caption" : "8 Vue.js UI Component for 2019\n\nWith Vue.js slowly becoming the framework of choice for more developers, here are 8 handy UI components to watch and perhaps integrate into your projects in 2019.  - http://amp.gs/RdFo\n\n#vue",
+        "category" : "Vue",
+        "created" : "2019.04.13.12.31.19",
+        "datemillis" : 1555138879941,
+        "dislike" : 0,
+        "id" : "1555138879941",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Vue.js is quickly becoming a fan favorite for developers when it comes to web app development. This modern, fresh JavaScript library It has",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*a5ccv_LxuMu6fvHOlcbZNw.png",
+          "siteName" : "Medium",
+          "title" : "8 Vue.js UI Component for 2019",
+          "type" : "article",
+          "url" : "https://medium.com/swlh/8-vue-js-ui-component-for-2019-5bfff4df480e"
+        },
+        "postLink" : "http://amp.gs/RdFo",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555220196718" : {
+        "caption" : "Add Authentication and Authorization to Vue.js Apps with Auth0 and GraphQL\n\nThis tutorial will show you how to add authentication to a Vue.js app with Auth0. Other technologies used include Apollo, Hasura GraphQL, and authorization with JWT.  - http://amp.gs/RStw\n\n#vue #graphql",
+        "category" : "Vue",
+        "created" : "2019.04.14.11.06.36",
+        "datemillis" : 1555220196718,
+        "dislike" : 0,
+        "id" : "1555220196718",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Add authentication to Vue.js app with Auth0. Authorization using JWT and Hasura GraphQL permissions.\nA sample Vue.js app protected by login to fetch articles written by logged in user.",
+          "image" : "https://blog.hasura.io/content/images/2019/04/vuejs-auth-graphql-2.png",
+          "siteName" : "Hasura Blog",
+          "title" : "Add Authentication and Authorization to Vue.js Apps with Auth0 and GraphQL",
+          "type" : "article",
+          "url" : "https://blog.hasura.io/add-authentication-and-authorization-to-vue-js-apps-with-auth0-graphql/"
+        },
+        "postLink" : "http://amp.gs/RStw",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1555478957642" : {
+        "caption" : "vue-ads-table-tree \n\nVue ads table tree is a vue js table component, with a tree functionality.  - http://amp.gs/RsEx\n\n#vue",
+        "category" : "Vue",
+        "created" : "2019.04.17.10.59.17",
+        "datemillis" : 1555478957642,
+        "dislike" : 0,
+        "id" : "1555478957642",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Contribute to arnedesmedt/vue-ads-table-tree development by creating an account on GitHub.",
+          "image" : "https://avatars2.githubusercontent.com/u/5807162?s=400&v=4",
+          "siteName" : "GitHub",
+          "title" : "arnedesmedt/vue-ads-table-tree",
+          "type" : "object",
+          "url" : "https://github.com/arnedesmedt/vue-ads-table-tree"
+        },
+        "postLink" : "http://amp.gs/RsEx",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556106108633" : {
+        "caption" : "A handful of pointers to power up your Vue app development \n\nVue.js is arguably one of the most popular front-end JavaScript frameworks today.  - http://amp.gs/RXD9\n\n#vue",
+        "category" : "Vue",
+        "created" : "2019.04.24.17.11.48",
+        "datemillis" : 1556106108633,
+        "dislike" : 0,
+        "id" : "1556106108633",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Vue.js is arguably one of the most popular front-end JavaScript frameworks today. Its ease of use and robust ecosystem make it great for…",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*UUZICMjFRS5H2O0TJudd8g.png",
+          "siteName" : "Medium",
+          "title" : "A handful of pointers to power up your Vue app development",
+          "type" : "article",
+          "url" : "https://medium.com/@aschmelyun/a-handful-of-pointers-to-power-up-your-vue-app-development-ea711eaf1577"
+        },
+        "postLink" : "http://amp.gs/RXD9",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556133999692" : {
+        "caption" : "The Trouble with Implementing SSR in a Laravel/Vue app\n\nAre you trying to integrate server-side rendering into an existing Laravel/Vue application? This post covers the main issues the author ran into and will provide some tips along the way.\n - http://amp.gs/RaAu\n\n#vue",
+        "category" : "Vue",
+        "created" : "2019.04.25.00.56.39",
+        "datemillis" : 1556133999692,
+        "dislike" : 0,
+        "id" : "1556133999692",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "\n\nTLDR: It is possible!\n\nThis is meant for those who want to integrate server-sid...",
+          "image" : "https://res.cloudinary.com/practicaldev/image/url2png/s--x2e1NHRP--/c_fill,g_north,h_400,w_800/https://dev.to/social_previews/article/97324%3Fbust%3D3-The%20trouble%20with%20implementing%20SSR%20into%20a%20Laravel/Vue%20app-true",
+          "siteName" : "The Practical Dev",
+          "title" : "The trouble with implementing SSR into a Laravel/Vue app",
+          "type" : "article",
+          "url" : "https://dev.to/mzanggl/the-troubles-implementing-ssr-into-a-laravel-vue-app-3m5f"
+        },
+        "postLink" : "http://amp.gs/RaAu",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      },
+      "1556134173775" : {
+        "caption" : "An (Almost) Comprehensive Guide on Using Storybook with Nuxt.js\n\nStorybook is an open source tool for developing UI components in isolation. Using Storybook with plain Vue is no hassle, but it’s another story with Nuxt. This article provides a robust tutorial for those who want to start using Storybook with Nuxt. - http://amp.gs/Rcv6\n\n#vue #nuxt #storybook",
+        "category" : "Vue",
+        "created" : "2019.04.25.00.59.33",
+        "datemillis" : 1556134173775,
+        "dislike" : 0,
+        "id" : "1556134173775",
+        "imageurl" : "",
+        "isalive" : false,
+        "like" : 0,
+        "metaData" : {
+          "description" : "Here’s my walkthrough on getting Storybook to play along with Nuxt.js.",
+          "image" : "https://cdn-images-1.medium.com/max/1200/1*8vntpfJ8_FQ1XkeMVggasQ.png",
+          "siteName" : "Medium",
+          "title" : "An (almost) comprehensive guide on using Storybook with Nuxt.js",
+          "type" : "article",
+          "url" : "https://medium.com/js-dojo/a-guide-on-using-storybook-with-nuxt-js-1e0018ec51c9"
+        },
+        "postLink" : "http://amp.gs/Rcv6",
+        "unratedflagcount" : 0,
+        "user" : {
+          "email" : "a@a.com",
+          "userid" : "6121992",
+          "username" : "Anonymous"
+        }
+      }
+    }
+  }
+}

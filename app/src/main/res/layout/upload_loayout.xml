@@ -35,6 +35,6 @@
         android:background="@color/colorPrimaryDark"
         android:layout_gravity="center"
         android:layout_height="50dp"
-        android:text="Submit" />
+        android:text="Post" />
 
 </LinearLayout>
